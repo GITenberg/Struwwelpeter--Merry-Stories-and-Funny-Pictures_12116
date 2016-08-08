@@ -1,0 +1,67 @@
+_repo: Struwwelpeter--Merry-Stories-and-Funny-Pictures_12116
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hoffmann, Heinrich
+    aliases:
+    - Hoffman, Heinrich
+    - Hoffmann-Donner, Heinrich
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '4233'
+    url: http://www.gutenberg.org/2009/agents/4233
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Hoffmann_%28author%29
+description: "Der Struwwelpeter (1845) (or Shockheaded Peter) is a German children's\
+  \ book by Heinrich Hoffmann. It comprises ten illustrated and rhymed stories, mostly\
+  \ about children. Each has a clear moral that demonstrates the disastrous consequences\
+  \ of misbehavior in an exaggerated way. The title of the first story provides the\
+  \ title of the whole book.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12116'
+  wikidata: Q27912
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry, German -- Translations into English'
+- !lcsh 'Picture books for children'
+- !lcsh 'Children''s stories, German -- Translations into English'
+- !lcsh 'Stories in rhyme'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Behavior -- Fiction'
+- GITenberg
+title: 'Struwwelpeter: Merry Stories and Funny Pictures'
+url: http://www.gutenberg.org/ebooks/12116
+wikipedia:
+- https://fi.wikipedia.org/wiki/J%C3%B6r%C3%B6-Jukka
+- https://eo.wikipedia.org/wiki/Struvelpetro
+- https://als.wikipedia.org/wiki/Struwwelpeter
+- https://commons.wikimedia.org/wiki/Struwwelpeter
+- https://sv.wikipedia.org/wiki/Pelle_Snusk
+- https://ja.wikipedia.org/wiki/%E3%82%82%E3%81%98%E3%82%83%E3%82%82%E3%81%98%E3%82%83%E3%83%9A%E3%83%BC%E3%82%BF%E3%83%BC
+- https://de.wikisource.org/wiki/Struwwelpeter
+- https://es.wikipedia.org/wiki/Struwwelpeter
+- https://en.wikipedia.org/wiki/Struwwelpeter
+- https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D1%91%D0%BF%D0%BA%D0%B0-%D0%A0%D0%B0%D1%81%D1%82%D1%80%D1%91%D0%BF%D0%BA%D0%B0
+- https://ko.wikipedia.org/wiki/%EB%8D%94%EB%B2%85%EB%A8%B8%EB%A6%AC_%ED%8E%98%ED%84%B0
+- https://fr.wikipedia.org/wiki/Der_Struwwelpeter
+- https://pdc.wikipedia.org/wiki/Struwwelpitter
+- https://wa.wikipedia.org/wiki/Pire_tiesse_di_lurson
+- https://pl.wikipedia.org/wiki/Sta%C5%9B_Straszyd%C5%82o
+- https://da.wikipedia.org/wiki/Den_store_Bastian
+- https://fy.wikipedia.org/wiki/Smoarge_Piter
+- https://stq.wikipedia.org/wiki/Tuusterp%C3%A4iter
+- https://nl.wikipedia.org/wiki/Struwwelpeter
+- https://sl.wikipedia.org/wiki/Peter_Ku%C5%A1ter
+- https://eu.wikipedia.org/wiki/Peru_tximaluze
+- https://de.wikipedia.org/wiki/Struwwelpeter
+- https://frr.wikipedia.org/wiki/Tuusipetji
+- https://it.wikipedia.org/wiki/Pierino_Porcospino
+- https://br.wikipedia.org/wiki/Der_Struwwelpeter
+- https://no.wikipedia.org/wiki/Busteper
+- https://he.wikipedia.org/wiki/%D7%99%D7%94%D7%95%D7%A9%D7%A2_%D7%94%D7%A4%D7%A8%D7%95%D7%A2
