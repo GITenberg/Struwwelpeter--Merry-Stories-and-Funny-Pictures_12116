@@ -1,5 +1,8 @@
 _repo: Struwwelpeter--Merry-Stories-and-Funny-Pictures_12116
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hoffmann, Heinrich
@@ -16,6 +19,8 @@ description: "Der Struwwelpeter (1845) (or Shockheaded Peter) is a German childr
   \ about children. Each has a clear moral that demonstrates the disastrous consequences\
   \ of misbehavior in an exaggerated way. The title of the first story provides the\
   \ title of the whole book.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12116#Struwwelpeter--Merry-Stories-and-Funny-Pictures
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
